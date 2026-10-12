@@ -2,3 +2,4 @@
 - Prompt bank: https://github.com/f/prompts.chat  check it for if can create a useful thing with it
 - Harness Engineering: https://github.com/walkinglabs/learn-harness-engineering  and https://github.com/earendil-works/pi
 - To help people about: https://github.com/multica-ai/andrej-karpathy-skills/
+- Research topic: use fibonacci sequence in ai programming somehow. look for different alternatives
