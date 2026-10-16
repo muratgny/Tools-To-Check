@@ -3,7 +3,7 @@
 - Harness Engineering: https://github.com/walkinglabs/learn-harness-engineering  and https://github.com/earendil-works/pi
 - To help people about: https://github.com/multica-ai/andrej-karpathy-skills/
 - Research topic: use fibonacci sequence in ai programming somehow. look for different alternatives
-
+- https://www.instagram.com/p/DeWi_ZAjJEU/?carousel_share_child_media_id=4005541637541573534_69027218331&comment_id=17912658501470216
 
 . Claude Code ve Codex kullananların ne kadarı biliyor bilmiyorum ama bence çok fazla konuşulmayan bir özellik var. Ana agent’ın kendi alt agent’larını açabilmesi, o alt agent’ların da kendi alt agent’larını oluşturabilmesi.
 Yani aslında tek bir oturum içerisinde, kendi aralarında iş bölümü yapan ve paralel çalışan koca bir agent ekibi kurabiliyorsunuz. Üstelik bu ekibin tamamının aynı modeli kullanması da gerekmiyor.
