@@ -5,6 +5,7 @@
 - Research topic: use fibonacci sequence in ai programming somehow. look for different alternatives
 - https://www.instagram.com/p/DeWi_ZAjJEU/?carousel_share_child_media_id=4005541637541573534_69027218331&comment_id=17912658501470216
 - https://github.com/affaan-m/ECC. look for useful content
+- https://github.com/garrytan/gbrain brain for AI
 
 . Claude Code ve Codex kullananların ne kadarı biliyor bilmiyorum ama bence çok fazla konuşulmayan bir özellik var. Ana agent’ın kendi alt agent’larını açabilmesi, o alt agent’ların da kendi alt agent’larını oluşturabilmesi.
 Yani aslında tek bir oturum içerisinde, kendi aralarında iş bölümü yapan ve paralel çalışan koca bir agent ekibi kurabiliyorsunuz. Üstelik bu ekibin tamamının aynı modeli kullanması da gerekmiyor.
